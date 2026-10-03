@@ -1,0 +1,48 @@
+# COMPONENTOWNERS
+# Ownership for Storybook components and groups
+
+##################################################
+# 🧑‍💻 Fallback (must come first — last match wins)
+##################################################
+
+*                                             joaocontadesenvolvimento@gmail.com
+
+##################################################
+# 🎨 Design System Core — Forms & Date/Time
+##################################################
+
+Components/Form/*                             Carlos.AlberTo.fulGrim@gmail.com
+Components/Form/Input/*                       Carlos.AlberTo.fulGrim@gmail.com joaocontadesenvolvimento@gmail.com
+Components/Combobox/*                         Carlos.AlberTo.fulGrim@gmail.com
+Components/Calendar/*                         Carlos.AlberTo.fulGrim@gmail.com
+Components/DatePicker/*                       Carlos.AlberTo.fulGrim@gmail.com
+
+##################################################
+# 🧭 Navigation & Layout
+##################################################
+
+Components/Accordion/*                       Alfredo.AfaRius@gmail.com
+Components/AspectRatio/*                     Alfredo.AfaRius@gmail.com
+Components/Collapsible/*                     Alfredo.AfaRius@gmail.com
+Components/Divider/*                         Alfredo.AfaRius@gmail.com
+Components/Footer/*                          Alfredo.AfaRius@gmail.com
+
+##################################################
+# 🖱️ Actions & Menus
+##################################################
+
+Components/Button/*                           Alfredo.AfaRius@gmail.com
+Components/Avatar/*                           Alfredo.AfaRius@gmail.com
+Components/DropDownMenu/*                     Alfredo.AfaRius@gmail.com
+
+##################################################
+# ✨ Animations
+##################################################
+
+Animations/*                                joaocontadesenvolvimento@gmail.com
+
+##################################################
+# 📚 Story-level overrides
+##################################################
+
+Components/Form/Input/Default              joaocontadesenvolvimento@gmail.com
